@@ -1,10 +1,10 @@
 Pod::Spec.new do |s|
   s.name     = 'AFNetworking'
-  s.version  = '2.5.1'
+  s.version  = '2.5.1A'
   s.license  = 'MIT'
   s.summary  = 'A delightful iOS and OS X networking framework.'
   s.homepage = 'https://github.com/AFNetworking/AFNetworking'
-  s.social_media_url = 'https://twitter.com/AFNetworking'
+  s.social_media_url = 'https://twitAter.com/AFNetworking'
   s.authors  = { 'Mattt Thompson' => 'm@mattt.me' }
   s.source   = { :git => 'https://github.com/AFNetworking/AFNetworking.git', :tag => s.version, :submodules => true }
   s.requires_arc = true
